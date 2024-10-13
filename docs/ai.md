@@ -56,7 +56,6 @@
 * [AyeSoul](https://ayesoul.com/) - AI Search Engine
 * [Mindfulq](https://www.mindfulq.com/) - AI Search Engine
 * [Andi](https://andisearch.com/) - AI Search Engine
-* [iSeek](https://www.iseek.com/) - AI Search Engine
 * [OpenPerplex](https://openperplex.com/) - AI Search Engine / [GitHub](https://github.com/YassKhazzan/openperplex_backend_os)
 * [uncovr](https://uncovr.app/) - AI Search Engine / [Discord](https://discord.gg/a4gDaVWceP)
 * [Exa](https://exa.ai/) - AI Search Engine / [Discord](https://discord.com/invite/jvz7GS9W8Y)
